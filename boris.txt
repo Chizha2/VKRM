@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 lalala
 waw
+=======
+lalala
+>>>>>>> Boris_2
